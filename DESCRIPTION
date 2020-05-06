@@ -1,6 +1,6 @@
 Package: DemografixeR
 Title: Extrapolate Gender, Age and Nationality of a Name
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(given = "Matthias",
            family = "Brenninkmeijer",
@@ -18,8 +18,8 @@ RoxygenNote: 7.1.0
 Suggests: covr, testthat, knitr, rmarkdown, dplyr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-04-24 09:22:09 UTC; Brenninkmeijer
+Packaged: 2020-05-05 22:43:17 UTC; Brenninkmeijer
 Author: Matthias Brenninkmeijer [aut, cre]
 Maintainer: Matthias Brenninkmeijer <matthias@brennotten.net>
 Repository: CRAN
-Date/Publication: 2020-04-29 14:20:02 UTC
+Date/Publication: 2020-05-06 12:50:22 UTC
